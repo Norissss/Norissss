@@ -20,7 +20,6 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/64px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Vscode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/64px-Visual_Studio_Code_1.35_icon.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="VirtualBox" width="30px" src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" style="padding-right:10px;" />][webdev]
 
 
 
