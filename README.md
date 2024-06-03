@@ -20,6 +20,8 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/64px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Vscode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/64px-Visual_Studio_Code_1.35_icon.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Vscode" width="30px" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=2&pid=SANGAM" style="padding-right:10px;" />][webdev]
+
 
 
 
