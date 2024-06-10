@@ -1,17 +1,17 @@
 # Hi there, I'm Noris - aka [Noris Parompon](https://www.linkedin.com/in/noris-parompon-1855a8310/) 👋
 ## About me:
 - 🔭 I’m currently a 4th-semester student at Politeknik Negeri Batam
+- 🌱 Currently, I'm deepening my knowledge and skills in Mobile and Web Design and Development.
 - 💻 Majoring in Software Engineering Technology
-- 🌱 I’m currently enhancing my skills in Design, Java, JavaScript, HTML, CSS, and Python
 - 📫 How to reach me: [norpyx@gmail.com]
 
 ## Education:
 
-#### 1. [Politeknik Negeri Batam](https://www.polibatam.ac.id/) | Mahasiswa Teknologi Rekayasa - Perangkat Lunak | Kepulauan Riau `2022 - Sekarang`
-- Pemrograman Dasar (Java)
-- Basis Data (SQL)
-- Pengembangan Aplikasi Web (HTML, CSS, JavaScript)
-- Analisis dan Desain Sistem
+####[Politeknik Negeri Batam](https://www.polibatam.ac.id/) | Mahasiswa Teknologi Rekayasa - Perangkat Lunak | Kepulauan Riau `2022 - Sekarang`
+- 💻 Pengembangan Aplikasi Web
+- 📱 Pengembangan Aplikasi Mobile
+- ⚙️ Pengembangan Sistem IOT
+- 🧠 Analisis dan Desain Sistem
 ---
 
 ### Languages and Tools:
