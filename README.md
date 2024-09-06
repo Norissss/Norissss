@@ -7,11 +7,11 @@
 
 ## Education:
 
-####[Politeknik Negeri Batam](https://www.polibatam.ac.id/) | Mahasiswa Teknologi Rekayasa - Perangkat Lunak | Kepulauan Riau `2022 - Sekarang`
-- 💻 Pengembangan Aplikasi Web
-- 📱 Pengembangan Aplikasi Mobile
-- ⚙️ Pengembangan Sistem IOT
-- 🧠 Analisis dan Desain Sistem
+####[Batam State Polytechnic](https://www.polibatam.ac.id/) | Software Engineering Technology Students | Kepulauan Riau `2022 - Sekarang`
+- 💻 Web Application Development
+- 📱 Mobile Application Development
+- ⚙️ IOT System Development
+- 🧠 System Analysis and Design
 ---
 
 ### Languages and Tools:
