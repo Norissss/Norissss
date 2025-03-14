@@ -1,6 +1,6 @@
 # Hi there, I'm Noris - aka [Noris Parompon](https://www.linkedin.com/in/noris-parompon-1855a8310/) 👋
 ## About me:
-- 🔭 I’m currently a 5th-semester student at Politeknik Negeri Batam
+- 🔭 I’m currently a 6th-semester student at Politeknik Negeri Batam
 - 🌱 Currently, I'm deepening my knowledge and skills in Mobile and Web Design and Development.
 - 💻 Majoring in Software Engineering Technology
 - 📫 How to reach me: [norpyx@gmail.com]
