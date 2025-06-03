@@ -7,7 +7,7 @@
 
 ## Education:
 
-####[Batam State Polytechnic](https://www.polibatam.ac.id/) | Software Engineering Technology Students | Kepulauan Riau `2022 - Sekarang`
+[Batam State Polytechnic](https://www.polibatam.ac.id/) | Software Engineering Technology Students | Kepulauan Riau `2022 - Sekarang`
 - 💻 Web Application Development
 - 📱 Mobile Application Development
 - ⚙️ IOT System Development
