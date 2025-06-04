@@ -3,7 +3,7 @@
 - 🔭 I’m currently a 6th-semester student at Politeknik Negeri Batam
 - 🌱 Currently, I'm deepening my knowledge and skills in Mobile and Web Design and Development.
 - 💻 Majoring in Software Engineering Technology
-- 📫 How to reach me: [norpyx@gmail.com]
+- 📫 How to reach me: [norisparompon004@gmail.com]
 
 ## Education:
 
